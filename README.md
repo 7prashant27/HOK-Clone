@@ -37,10 +37,3 @@
 <br />
 
 ---
-
-### Team Members:
-
-- [Ankit Mishra](https://github.com/Ankit-Mishra07)
-- [Ambika Kumari](https://github.com/ambika13kumari)
-- [Abhishek]() 
-- [Abhijeet]()
